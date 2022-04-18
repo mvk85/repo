@@ -1,0 +1,1 @@
+// SELECT items.price * items.amount AS total FROM items
